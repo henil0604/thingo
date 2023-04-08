@@ -1,0 +1,35 @@
+{
+  "name": "thingo",
+  "version": "0.1.0",
+  "description": "A library containing everyday things implemented as object",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "default": "./dist/index.cjs",
+    "import": "./dist/index.js",
+    "node": "./dist/index.cjs",
+    "require": "./dist/index.cjs"
+  },
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc",
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "clean": "rm -rf dist node_modules",
+    "prepare": "npm run build",
+    "test": "tsx test/index.ts",
+    "test:watch": "tsx watch test/index.ts"
+  },
+  "keywords": [
+    "things"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "tsup": "^6.7.0",
+    "tsx": "^3.12.6",
+    "type-fest": "^3.8.0"
+  }
+}

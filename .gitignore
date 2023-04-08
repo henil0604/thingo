@@ -1,0 +1,6 @@
+*.backup
+*.boiler.*
+
+/dist
+/node_modules
+/test

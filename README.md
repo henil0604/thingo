@@ -16,10 +16,10 @@
 
 # Objects
 
-- [Animal](./src/base/Animal.ts)
-- [Human](./src/base/Human.ts)
-- [MaleHuman](./src/MaleHuman.ts)
-- [FemaleHuman](./src/FemaleHuman.ts)
+- [Animal](https://github.com/henil0604/thingo/tree/main/src/base/Animal.ts)
+- [Human](https://github.com/henil0604/thingo/tree/main/src/base/Human.ts)
+- [MaleHuman](https://github.com/henil0604/thingo/tree/main/src/MaleHuman.ts)
+- [FemaleHuman](https://github.com/henil0604/thingo/tree/main/src/FemaleHuman.ts)
 
 
 ### 🏠 [Homepage](https://github.com/henil0604/thingo)
@@ -34,7 +34,7 @@ npm install thingo
 
 👤 **Henil Malaviya <me@henil.xyz>**
 
-* Website: [henil.xyz](henil.xyz)
+* Website: [henil.xyz](https://henil.xyz)
 * Twitter: [@realhenil](https://twitter.com/realhenil)
 * Github: [@henil0604](https://github.com/henil0604)
 * LinkedIn: [@henil-malaviya](https://linkedin.com/in/henil-malaviya)
